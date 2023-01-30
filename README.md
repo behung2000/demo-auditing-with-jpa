@@ -1,4 +1,4 @@
-# demo-auditing-with-jpa
+# demo-auditing-with-jpa (tiếp cận 1)
 ## Use java 11 (amazon) + spring boot version 2.7.7
 ## Example simple spring (audit + jpa + mvc)
 * auditing with jpa (@annotation method)
